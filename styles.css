@@ -1,0 +1,41 @@
+body {
+    background: #cfffe8;
+}
+
+html {
+    font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color:#1f1b20;
+    font-family: 'Amatic SC', cursive;
+    font-size: 62px;
+    margin: 0,5;
+    margin-bottom: 0;
+    padding: 0;
+}
+
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: auto;
+} 
+
+div {
+    text-align: center;
+    font-size: 20px;
+}
+
+ol {
+    display: table;
+    margin: 0 auto;
+    padding: 10px;
+    list-style-type: none;
+}
+
+li {
+    text-align: center;
+}
