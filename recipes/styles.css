@@ -5,7 +5,7 @@ body {
 h1 {
     text-align: center;
     color:#1f1b20;
-    font-family: 'Amatic SC', cursive;
+    font-family: Cursive;
     font-size: 62px;
     margin: 0,5;
     margin-bottom: 0;
@@ -20,5 +20,5 @@ h1 {
     height: auto;
     border-style: double;
     border-color: #1f1b20;
-    
+
 }
