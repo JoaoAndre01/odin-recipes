@@ -1,0 +1,24 @@
+body {
+    background: #cfffe8;
+}
+
+h1 {
+    text-align: center;
+    color:#1f1b20;
+    font-family: 'Amatic SC', cursive;
+    font-size: 62px;
+    margin: 0,5;
+    margin-bottom: 0;
+    padding: 0;
+}
+
+.example {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: auto;
+    border-style: double;
+    border-color: #1f1b20;
+    
+}
