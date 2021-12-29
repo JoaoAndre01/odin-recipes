@@ -1,11 +1,11 @@
 body {
-    background: #cfffe8;
+    background: #cfffe8
 }
 
 h1 {
     text-align: center;
     color:#1f1b20;
-    font-family: "Cursive";
+    font-family: "Times New Roman", "Cursive";
     font-size: 62px;
     margin: 0,5;
     margin-bottom: 0;
@@ -22,7 +22,7 @@ h1 {
 
 div {
     text-align: center;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 ol {
@@ -34,4 +34,5 @@ ol {
 
 li {
     text-align: center;
+    font-size: 20px;
 }
