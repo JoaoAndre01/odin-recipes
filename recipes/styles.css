@@ -1,13 +1,13 @@
 body {
-    background: linear-gradient(180deg, #cfffe8, #ffff)
+    background: linear-gradient(180deg, #cfffe8, #ffff);
+    font-family: 'cursive';
 }
 
 h1 {
     text-align: center;
     color:#1f1b20;
-    font-family: "Times New Roman", "Cursive";
     font-size: 62px;
-    margin: 0,5;
+    margin: 0;
     margin-bottom: 0;
     padding: 0;
 }
