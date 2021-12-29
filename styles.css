@@ -2,14 +2,10 @@ body {
     background: #cfffe8;
 }
 
-html {
-    font-family: 'Quicksand', sans-serif;
-}
-
 h1 {
     text-align: center;
     color:#1f1b20;
-    font-family: cursive;
+    font-family: "cursive";
     font-size: 62px;
     margin: 0,5;
     margin-bottom: 0;
